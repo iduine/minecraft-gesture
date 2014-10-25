@@ -1,1 +1,1 @@
-TEST
+<?php echo 'salut!'; ?>
